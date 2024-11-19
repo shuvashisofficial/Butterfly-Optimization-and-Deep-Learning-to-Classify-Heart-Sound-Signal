@@ -92,12 +92,12 @@ The **Butterfly Optimization Algorithm (BOA)** is used to optimize CNN hyperpara
 
 ## Fragrance Calculation
 
-![Hyperperemeter Optimization](Images/formula_1.jpg)
+![Hyperperemeter Optimization](Images/formula_1.png)
 
 ## Movement Calculation (Global Search Phase)
 The movement of butterflies during the global search phase is defined as:
 
-![Hyperperemeter Optimization](Images/formula_2.jpg)
+![Hyperperemeter Optimization](Images/formula_2.png)
 
 ## Key Optimized Hyperparameters
 The CNN hyperparameters optimized using BOA are:
